@@ -1,0 +1,6 @@
+{
+  "name": "Air Quality Prediction",
+  "description": "Machine Learning powered Air Quality Prediction application utilizing XGBoost Regressor to predict pollutant average levels with Firebase Authentication and Firestore history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
